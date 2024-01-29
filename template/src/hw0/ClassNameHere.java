@@ -1,3 +1,5 @@
+package hw0;
+
 public class ClassNameHere {
     /**
      * Returns the maximum value from m.
