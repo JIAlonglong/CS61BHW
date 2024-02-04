@@ -1,4 +1,6 @@
-/** An SLList is a list of integers,which hides the terrible truth
+package list1_2;
+
+/** An list1_2.SLList is a list of integers,which hides the terrible truth
  * of the nakedness within*/
 public class SLList {
     public IntNode first;

@@ -1,6 +1,8 @@
+package list1_2;
+
 public class Lists1Exercises {
     /**
-     * Returns an IntList identical to L, but with
+     * Returns an list1_2.IntList identical to L, but with
      * each element incremented by x. L is not allowed
      * to change.
      */
@@ -17,7 +19,7 @@ public class Lists1Exercises {
     }
 
     /**
-     * Returns an IntList identical to L, but with
+     * Returns an list1_2.IntList identical to L, but with
      * each element incremented by x. Not allowed to use
      * the 'new' keyword.
      */
@@ -40,7 +42,7 @@ public class Lists1Exercises {
         System.out.println(L.iterativeSize());
 
         // Test your answers by uncommenting. Or copy and paste the
-        // code for incrList and dincrList into IntList.java and
+        // code for incrList and dincrList into list1_2.IntList.java and
         // run it in the visualizer.
         // System.out.println(L.get(1));
         // System.out.println(incrList(L, 3));

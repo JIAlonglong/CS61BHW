@@ -1,3 +1,5 @@
+package list1_2;
+
 public class IntList {
     public int first;
     public IntList rest;
